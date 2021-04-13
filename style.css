@@ -11,7 +11,7 @@ display: inline-block;
 } 
 .header{
 	display: flex;
- justify-content: space-between;
+  justify-content: space-between;
 } 
 .menu{
 	display: flex;
