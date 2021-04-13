@@ -1,3 +1,23 @@
-h1 {
-  font-family: 'Roboto';
+.wrapper{
+	margin: auto;
+	width: 80%;
+}
+.logo, .menu{
+display: inline-block;
+}
+.logo{
+	margin-right: 63%;
+	padding: 40px 0;
+}
+.header{
+	display: flex;
+ justify-content: space-between;
+}
+.menu{
+	display: flex;
+	align-items: center;
+}
+.menu__item{
+	padding: 0 13px;
+	padding: right: 0;
 }
