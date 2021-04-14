@@ -1,6 +1,6 @@
 h1{
 	font-family: Roboto;
-}
+} 
 .wrapper{
 	margin: auto;
 	width: 80%;
@@ -12,15 +12,14 @@ display: inline-block;
 	padding: 40px 0;
 	width: 190px;
 	height: 35px;
-	border: dashed 1px red;
-	background: no-repeat url('logo.svg');
+	background: center no-repeat url('logo.svg');
 } 
 .header{
 	display: flex;
   justify-content: space-between;
 } 
 .menu{
-	display: flex;
+	display:flex;
 	align-items: center;
 } 
 .menu__item{
