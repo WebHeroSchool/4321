@@ -24,4 +24,14 @@ display: inline-block;
 } 
 .menu__item{
 	padding: 0 13px;
+	font: 500 18px/20px Roboto,arial6 helvetica,sans-serif;
+	color:#000;
+	text-decoration: none;
 } 
+.menu__item_active::after{
+	display: block;
+	content: '';
+	width: 68px;
+	height: 3px
+	background:#0056EC;
+}
