@@ -1,17 +1,15 @@
+h1{
+	font-family: Roboto;
+}
 .wrapper{
 	margin: auto;
 	width: 80%;
 } 
-.logo,.menu{
+.logo, .menu{
 display: inline-block;
 } 
 .logo{
-	margin-right: 63%;
 	padding: 40px 0;
-	font-family: pt_serif, arial, helvetica, sans-serif;
-	font-weight: bold;
-	font-size: 24px;
-	line-height: 31px;
 	width: 190px;
 	height: 35px;
 	border: dashed 1px red;
